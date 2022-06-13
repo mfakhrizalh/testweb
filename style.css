@@ -4,7 +4,7 @@ body {
 }
 
 .left-container {
-    position: fixed;
+    position: absolute;
     width: 400px;
     height: 100vh;
     background-color: firebrick;
