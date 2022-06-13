@@ -1,0 +1,217 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.left-container {
+    position: fixed;
+    width: 400px;
+    height: 100vh;
+    background-color: firebrick;
+}
+
+.photo-contacts {
+    position: absolute;
+    top: 100px;
+    text-align: center;
+}
+
+.photo {
+    width: 50%;
+    border-radius: 50%; 
+}
+
+.text {
+    color: white;
+}
+
+.contact-btn {
+    width: 50%;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.contact-btn:hover {
+    background-color: navy;
+    color: #23E815;
+    transition: 1s;
+}
+
+
+.right-container {
+    position: absolute;
+    left: 400px;
+    background-color: white;
+}
+
+.top-bar {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.title{
+    font-family: 'Kdam Thmor Pro',sans-serif;
+    font-size: 50px;
+}
+
+.list-menu {
+    float: right;
+    padding-right: 55px;
+    font-size: 100%;
+    font-family: 'Stick No Bills',sans-serif;
+}
+
+.menu{
+    font-size: 1.1rem;
+    padding: 15px;
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    float: left;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    float: left;
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    float: left;
+}
+
+.box4 {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    float: left;
+}
+.box5 {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    float: left;
+}
+.box6 {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    float: left;
+}
+.box7 {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    float: left;
+}
+.box8 {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    float: left;
+}
+
+.images1 {
+    width: 150px;
+    height: 200px;
+}
+
+.images2{
+    width: 150px;
+    height: 200px;
+}
+
+.images3 {
+    width: 150px;
+    height: 200px;
+}
+
+.images4 {
+    width: 150px;
+    height: 200px;
+}
+
+.images5 {
+    width: 150px;
+    height: 200px;
+}
+
+.images6 {
+    width: 150px;
+    height: 200px;
+}
+
+.images7 {
+    width: 150px;
+    height: 200px;
+}
+
+.images8 {
+    width: 150px;
+    height: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#profile{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'DotGothic16',sans-serif;
+    text-align: justify;
+}
+
+#about{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Electrolize', sans-serif;
+    text-align: justify;
+}
+
+#personality {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Electrolize', sans-serif;
+    text-align: justify;
+}
+
+#appearance {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Electrolize', sans-serif;
+    text-align: justify;
+}
+
+#pictures {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Electrolize', sans-serif;
+}
+
+
+#footer {
+    padding-top: 550px;
+    text-align: center;
+}
+
+p{
+ line-height: 100%;    
+}
